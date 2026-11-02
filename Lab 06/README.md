@@ -1,4 +1,4 @@
-# Laboratorio 06 - Análisis y Diseño de Algoritmos
+# Laboratorio 06: Análisis y Diseño de Algoritmos
 
 Se aplica programación dinámica para resolver caminos en grafos por etapas y comparar formas de calcular Fibonacci. Cada ejercicio utiliza sus propios datos definidos en el código y se ejecuta de manera independiente.
 
