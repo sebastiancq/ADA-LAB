@@ -2,24 +2,20 @@
 
 ## Compilación
 
-Desde la raíz de `Lab 08`:
+Desde la carpeta `Lab 08`:
 
 ```sh
-g++ Ejercicio01/main.cpp -o Ejercicio01/main.exe
-g++ Ejercicio02/main.cpp -o Ejercicio02/main.exe
-g++ Ejercicio03/main.cpp -o Ejercicio03/main.exe
-g++ Ejercicio04/main.cpp -o Ejercicio04/main.exe
+g++ Ejercicio01/main.cpp -o Ejercicio01/main
+g++ Ejercicio02/main.cpp -o Ejercicio02/main
+g++ Ejercicio03/main.cpp -o Ejercicio03/main
+g++ Ejercicio04/main.cpp -o Ejercicio04/main
 ```
 
 ## Ejecución
 
 ```sh
-./Ejercicio01/main.exe
-./Ejercicio02/main.exe
-./Ejercicio03/main.exe
-cd Ejercicio04 && ./main.exe
+./Ejercicio01/main
+./Ejercicio02/main
+./Ejercicio03/main
+cd Ejercicio04 && ./main
 ```
-
-El ejercicio 4 guarda la gráfica en `grafica_crecimiento.svg`, en la carpeta desde donde se ejecuta.
-
-El ejercicio 5 es una investigación y se desarrolla en el informe.
